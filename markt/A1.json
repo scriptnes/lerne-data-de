@@ -1,0 +1,64 @@
+{
+  "A1": [
+    {
+      "id": "1",
+      "text": "Person1: Guten Tag! Ich möchte Äpfel kaufen.",
+      "translation": "Клиент: Добър ден! Искам да купя ябълки.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "2",
+      "text": "Person2: Guten Tag! Die Äpfel sind gleich hier.",
+      "translation": "Продавач: Добър ден! Ябълките са точно тук.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "3",
+      "text": "Person1: Wie viel kosten sie pro Kilo?",
+      "translation": "Клиент: Колко струват за килограм?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "4",
+      "text": "Person2: Sie kosten 2 Euro pro Kilo.",
+      "translation": "Продавач: Струват 2 евро за килограм.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "5",
+      "text": "Person1: Ich nehme 1 Kilo, bitte.",
+      "translation": "Клиент: Ще взема 1 килограм, моля.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "6",
+      "text": "Person2: Möchten Sie sonst noch etwas?",
+      "translation": "Продавач: Желаете ли нещо друго?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "7",
+      "text": "Person1: Ja, ich brauche auch eine Flasche Milch.",
+      "translation": "Клиент: Да, имам нужда и от бутилка мляко.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "8",
+      "text": "Person2: Die Milch ist im Kühlregal.",
+      "translation": "Продавач: Млякото е в хладилната секция.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "9",
+      "text": "Person1: Danke, das ist alles.",
+      "translation": "Клиент: Благодаря, това е всичко.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "10",
+      "text": "Person2: Das macht 4 Euro, bitte.",
+      "translation": "Продавач: Това прави 4 евро, моля.",
+      "audioId": "audioA1"
+    }
+  ]
+}
