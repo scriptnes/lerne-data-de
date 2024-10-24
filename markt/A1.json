@@ -59,6 +59,546 @@
       "text": "Person2: Das macht 4 Euro, bitte.",
       "translation": "Продавач: Това прави 4 евро, моля.",
       "audioId": "audioA1"
+    },
+    {
+      "id": "11",
+      "text": "Person1: Haben Sie auch Bananen?",
+      "translation": "Клиент: Имате ли банани?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "12",
+      "text": "Person2: Ja, die Bananen sind dort drüben.",
+      "translation": "Продавач: Да, бананите са ей там.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "13",
+      "text": "Person1: Wie viel kosten die Bananen?",
+      "translation": "Клиент: Колко струват бананите?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "14",
+      "text": "Person2: Sie kosten 1,50 Euro pro Kilo.",
+      "translation": "Продавач: Те струват 1,50 евро за килограм.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "15",
+      "text": "Person1: Ich nehme 2 Kilo, bitte.",
+      "translation": "Клиент: Ще взема 2 килограма, моля.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "16",
+      "text": "Person2: Möchten Sie sonst noch etwas?",
+      "translation": "Продавач: Желаете ли нещо друго?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "17",
+      "text": "Person1: Ja, ich hätte gerne auch Brot.",
+      "translation": "Клиент: Да, бих искал и хляб.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "18",
+      "text": "Person2: Das Brot ist gleich hier.",
+      "translation": "Продавач: Хлябът е точно тук.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "19",
+      "text": "Person1: Ich nehme ein Brot, bitte.",
+      "translation": "Клиент: Ще взема един хляб, моля.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "20",
+      "text": "Person2: Das macht insgesamt 5 Euro.",
+      "translation": "Продавач: Това прави общо 5 евро.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "21",
+      "text": "Person1: Akzeptieren Sie Kreditkarten?",
+      "translation": "Клиент: Приемате ли кредитни карти?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "22",
+      "text": "Person2: Ja, wir akzeptieren Kreditkarten.",
+      "translation": "Продавач: Да, приемаме кредитни карти.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "23",
+      "text": "Person1: Wo finde ich das Mehl?",
+      "translation": "Клиент: Къде мога да намеря брашното?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "24",
+      "text": "Person2: Das Mehl ist im Gang neben den Teigwaren.",
+      "translation": "Продавач: Брашното е в коридора до тестените изделия.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "25",
+      "text": "Person1: Haben Sie auch Bio-Produkte?",
+      "translation": "Клиент: Имате ли биологични продукти?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "26",
+      "text": "Person2: Ja, die Bio-Produkte sind in diesem Regal.",
+      "translation": "Продавач: Да, биологичните продукти са на този рафт.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "27",
+      "text": "Person1: Sind die Eier frisch?",
+      "translation": "Клиент: Свежи ли са яйцата?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "28",
+      "text": "Person2: Ja, die Eier sind heute frisch geliefert worden.",
+      "translation": "Продавач: Да, яйцата бяха доставени днес.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "29",
+      "text": "Person1: Ich nehme ein Dutzend Eier.",
+      "translation": "Клиент: Ще взема една дузина яйца.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "30",
+      "text": "Person2: Brauchen Sie noch etwas?",
+      "translation": "Продавач: Нуждаете ли се от нещо друго?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "31",
+      "text": "Person1: Haben Sie auch Butter?",
+      "translation": "Клиент: Имате ли масло?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "32",
+      "text": "Person2: Ja, die Butter ist im Kühlregal.",
+      "translation": "Продавач: Да, маслото е в хладилната секция.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "33",
+      "text": "Person1: Was kostet die Butter?",
+      "translation": "Клиент: Колко струва маслото?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "34",
+      "text": "Person2: Sie kostet 1,20 Euro.",
+      "translation": "Продавач: Струва 1,20 евро.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "35",
+      "text": "Person1: Ich nehme eine Packung, bitte.",
+      "translation": "Клиент: Ще взема една опаковка, моля.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "36",
+      "text": "Person2: Möchten Sie noch etwas anderes?",
+      "translation": "Продавач: Искате ли още нещо?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "37",
+      "text": "Person1: Nein, das ist alles. Danke.",
+      "translation": "Клиент: Не, това е всичко. Благодаря.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "38",
+      "text": "Person2: Das macht 10 Euro, bitte.",
+      "translation": "Продавач: Това прави 10 евро, моля.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "39",
+      "text": "Person1: Kann ich mit Karte bezahlen?",
+      "translation": "Клиент: Мога ли да платя с карта?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "40",
+      "text": "Person2: Ja, wir akzeptieren Karten.",
+      "translation": "Продавач: Да, приемаме карти.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "41",
+      "text": "Person1: Wo finde ich die Schokolade?",
+      "translation": "Клиент: Къде мога да намеря шоколад?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "42",
+      "text": "Person2: Die Schokolade ist im nächsten Gang.",
+      "translation": "Продавач: Шоколадът е в следващия коридор.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "43",
+      "text": "Person1: Haben Sie dunkle Schokolade?",
+      "translation": "Клиент: Имате ли черен шоколад?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "44",
+      "text": "Person2: Ja, wir haben dunkle Schokolade.",
+      "translation": "Продавач: Да, имаме черен шоколад.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "45",
+      "text": "Person1: Was kostet sie?",
+      "translation": "Клиент: Колко струва?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "46",
+      "text": "Person2: Sie kostet 2 Euro pro Tafel.",
+      "translation": "Продавач: Струва 2 евро за табела.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "47",
+      "text": "Person1: Ich nehme zwei Tafeln, bitte.",
+      "translation": "Клиент: Ще взема две табели, моля.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "48",
+      "text": "Person2: Das macht 4 Euro.",
+      "translation": "Продавач: Това прави 4 евро.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "49",
+      "text": "Person1: Haben Sie auch Mineralwasser?",
+      "translation": "Клиент: Имате ли минерална вода?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "50",
+      "text": "Person2: Ja, das Mineralwasser ist in der Getränkeabteilung.",
+      "translation": "Продавач: Да, минералната вода е в секцията с напитки.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "51",
+      "text": "Person1: Haben Sie Orangen?",
+      "translation": "Клиент: Имате ли портокали?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "52",
+      "text": "Person2: Ja, sie kosten 3 Euro pro Kilo.",
+      "translation": "Продавач: Да, те струват 3 евро за килограм.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "53",
+      "text": "Person1: Ich nehme 2 Kilo Orangen.",
+      "translation": "Клиент: Ще взема 2 килограма портокали.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "54",
+      "text": "Person2: Möchten Sie noch etwas?",
+      "translation": "Продавач: Желаете ли още нещо?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "55",
+      "text": "Person1: Ja, wo finde ich den Zucker?",
+      "translation": "Клиент: Да, къде мога да намеря захарта?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "56",
+      "text": "Person2: Der Zucker ist im zweiten Gang.",
+      "translation": "Продавач: Захарта е в коридор две.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "57",
+      "text": "Person1: Was kostet der Zucker?",
+      "translation": "Клиент: Колко струва захарта?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "58",
+      "text": "Person2: Ein Kilo Zucker kostet 1 Euro.",
+      "translation": "Продавач: Едно кило захар струва 1 евро.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "59",
+      "text": "Person1: Ich nehme zwei Kilo Zucker, bitte.",
+      "translation": "Клиент: Ще взема две кила захар, моля.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "60",
+      "text": "Person2: Brauchen Sie noch etwas?",
+      "translation": "Продавач: Нуждаете ли се от още нещо?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "61",
+      "text": "Person1: Ja, eine Flasche Öl, bitte.",
+      "translation": "Клиент: Да, една бутилка олио, моля.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "62",
+      "text": "Person2: Das Öl ist im vierten Gang.",
+      "translation": "Продавач: Олиото е в четвърти коридор.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "63",
+      "text": "Person1: Wie viel kostet das Öl?",
+      "translation": "Клиент: Колко струва олиото?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "64",
+      "text": "Person2: Es kostet 4 Euro pro Liter.",
+      "translation": "Продавач: То струва 4 евро за литър.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "65",
+      "text": "Person1: Ich nehme eine Flasche, bitte.",
+      "translation": "Клиент: Ще взема една бутилка, моля.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "66",
+      "text": "Person2: Möchten Sie noch etwas anderes?",
+      "translation": "Продавач: Искате ли нещо друго?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "67",
+      "text": "Person1: Haben Sie Käse?",
+      "translation": "Клиент: Имате ли сирене?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "68",
+      "text": "Person2: Ja, der Käse ist im Kühlregal.",
+      "translation": "Продавач: Да, сиренето е в хладилната секция.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "69",
+      "text": "Person1: Wie viel kostet er?",
+      "translation": "Клиент: Колко струва той?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "70",
+      "text": "Person2: Er kostet 5 Euro pro Kilo.",
+      "translation": "Продавач: Той струва 5 евро за килограм.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "71",
+      "text": "Person1: Ich nehme ein halbes Kilo, bitte.",
+      "translation": "Клиент: Ще взема половин килограм, моля.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "72",
+      "text": "Person2: Möchten Sie noch etwas?",
+      "translation": "Продавач: Желаете ли още нещо?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "73",
+      "text": "Person1: Ja, ich suche Tomaten.",
+      "translation": "Клиент: Да, търся домати.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "74",
+      "text": "Person2: Die Tomaten sind in der Obst- und Gemüseabteilung.",
+      "translation": "Продавач: Доматите са в секцията с плодове и зеленчуци.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "75",
+      "text": "Person1: Was kosten die Tomaten?",
+      "translation": "Клиент: Колко струват доматите?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "76",
+      "text": "Person2: Sie kosten 3 Euro pro Kilo.",
+      "translation": "Продавач: Те струват 3 евро за килограм.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "77",
+      "text": "Person1: Ich nehme ein Kilo, bitte.",
+      "translation": "Клиент: Ще взема килограм, моля.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "78",
+      "text": "Person2: Brauchen Sie noch etwas?",
+      "translation": "Продавач: Нуждаете ли се от още нещо?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "79",
+      "text": "Person1: Haben Sie Nudeln?",
+      "translation": "Клиент: Имате ли макарони?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "80",
+      "text": "Person2: Ja, die Nudeln sind im dritten Gang.",
+      "translation": "Продавач: Да, макароните са в трети коридор.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "81",
+      "text": "Person1: Was kosten sie?",
+      "translation": "Клиент: Колко струват те?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "82",
+      "text": "Person2: Sie kosten 2 Euro pro Packung.",
+      "translation": "Продавач: Те струват 2 евро за пакет.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "83",
+      "text": "Person1: Ich nehme drei Packungen, bitte.",
+      "translation": "Клиент: Ще взема три пакета, моля.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "84",
+      "text": "Person2: Das macht insgesamt 6 Euro.",
+      "translation": "Продавач: Това прави общо 6 евро.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "85",
+      "text": "Person1: Kann ich bar bezahlen?",
+      "translation": "Клиент: Мога ли да платя в брой?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "86",
+      "text": "Person2: Ja, natürlich.",
+      "translation": "Продавач: Да, разбира се.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "87",
+      "text": "Person1: Haben Sie Marmelade?",
+      "translation": "Клиент: Имате ли мармалад?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "88",
+      "text": "Person2: Ja, die Marmelade ist im Regal neben dem Honig.",
+      "translation": "Продавач: Да, мармаладът е на рафта до меда.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "89",
+      "text": "Person1: Was kostet die Marmelade?",
+      "translation": "Клиент: Колко струва мармаладът?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "90",
+      "text": "Person2: Sie kostet 2,50 Euro pro Glas.",
+      "translation": "Продавач: Струва 2,50 евро за буркан.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "91",
+      "text": "Person1: Ich nehme ein Glas, bitte.",
+      "translation": "Клиент: Ще взема един буркан, моля.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "92",
+      "text": "Person2: Brauchen Sie noch etwas anderes?",
+      "translation": "Продавач: Нуждаете ли се от още нещо?",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "93",
+      "text": "Person1: Nein, danke. Das ist alles.",
+      "translation": "Клиент: Не, благодаря. Това е всичко.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "94",
+      "text": "Person2: Das macht 12 Euro insgesamt.",
+      "translation": "Продавач: Това прави общо 12 евро.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "95",
+      "text": "Person1: Ich zahle mit Karte, bitte.",
+      "translation": "Клиент: Ще платя с карта, моля.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "96",
+      "text": "Person2: In Ordnung, bitte stecken Sie Ihre Karte ein.",
+      "translation": "Продавач: Добре, моля вкарайте картата си.",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "97",
+      "text": "Person1: Vielen Dank für die Hilfe!",
+      "translation": "Клиент: Благодаря за помощта!",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "98",
+      "text": "Person2: Gern geschehen, schönen Tag noch!",
+      "translation": "Продавач: Няма защо, приятен ден!",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "99",
+      "text": "Person1: Auf Wiedersehen!",
+      "translation": "Клиент: Довиждане!",
+      "audioId": "audioA1"
+    },
+    {
+      "id": "100",
+      "text": "Person2: Auf Wiedersehen!",
+      "translation": "Продавач: Довиждане!",
+      "audioId": "audioA1"
     }
   ]
 }
